@@ -1,0 +1,1 @@
+Revised and practiced some concepts of typescript to get ready for internship!.
