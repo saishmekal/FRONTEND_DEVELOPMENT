@@ -1,1 +1,2 @@
 Revised and practiced some concepts of typescript to get ready for internship!.
+Did Some mock interview practice for Frotend Development (Fresher) Role!.
